@@ -1,1 +1,1 @@
-# Statistical-and-Machine-Learning-HW1
+# Statistical-and-Machine-Learning-HW
